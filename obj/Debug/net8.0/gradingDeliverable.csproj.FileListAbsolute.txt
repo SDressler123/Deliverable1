@@ -1,0 +1,14 @@
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\bin\Debug\net8.0\gradingDeliverable.exe
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\bin\Debug\net8.0\gradingDeliverable.deps.json
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\bin\Debug\net8.0\gradingDeliverable.runtimeconfig.json
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\bin\Debug\net8.0\gradingDeliverable.dll
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\bin\Debug\net8.0\gradingDeliverable.pdb
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\gradingDeliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\gradingDeliverable.AssemblyInfoInputs.cache
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\gradingDeliverable.AssemblyInfo.cs
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\gradingDeliverable.csproj.CoreCompileInputs.cache
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\gradingDeliverable.dll
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\refint\gradingDeliverable.dll
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\gradingDeliverable.pdb
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\gradingDeliverable.genruntimeconfig.cache
+C:\Users\SeanDressler\Documents\NightTimeWorkshop\gradingDeliverable\obj\Debug\net8.0\ref\gradingDeliverable.dll
